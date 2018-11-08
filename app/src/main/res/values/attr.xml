@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="MySeekBar">
+        <attr name="mTopBarColor" format="color"></attr> 滑动时候横条颜色
+        <attr name="mBottomBarColor" format="color"></attr>默认的横条颜色
+        <attr name="strokeColor" format="color"></attr>椭圆边框颜色
+        <attr name="month" format="boolean"></attr>判断是按年份显示还是月份显示
+        <attr name="mytext" format="string"></attr>获得textview显示的后缀
+    </declare-styleable>
+
+
+
+
+</resources>
